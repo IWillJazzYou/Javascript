@@ -1,0 +1,11 @@
+* Self-Contained module
+    * every thing to do in my module is in my module
+    * no global variables
+    * if a module manages more than  one thing it should split up
+* separation of concerns
+* Dry code: dont repeat yourself
+* efficient DOM usage
+    * very few $(seleection)
+* no memory leaks
+    * all events can be unbound
+ 
